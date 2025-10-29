@@ -1,0 +1,18 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Contact"
+      href: Contact.html
+    - text: "Plotly"
+      href: Plotly.html
+    - text: "Dashboard"
+      href: Dashboard.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<hc3653@hc3653@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/hongdachen/
+output:
+  html_document:
+    theme: cosmo

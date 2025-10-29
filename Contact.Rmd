@@ -1,0 +1,14 @@
+---
+title: "My contact"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This page has some contact information about me
+* Email: hc3653@cumc.columbia.edu
+* [Github](https://github.com/hongdachen) 
+
+
+
